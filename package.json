@@ -1,0 +1,14 @@
+{
+    "name": "ci101lab5",
+    "version": "0.0.1",
+    "description": "lab for ci 101",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nyaakov/CI101Lab5.git"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "sqlite3": "^4.1.0"
+    }
+}
