@@ -1,0 +1,35 @@
+html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    /*Question 8*/
+}
+
+table {
+    margin: 0 auto;
+}
+
+
+td {
+    padding: 5px;
+}
+
+/*Question 6*/
+#header-row {
+    background-color: white;
+}
+
+/*Question 6*/
+.rows {
+    background-color: white;
+}
+
+/*Question 7*/
+button {
+    margin: 5px;    
+    padding: 5px;
+}
